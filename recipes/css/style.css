@@ -1,0 +1,44 @@
+* {
+  font-family: sans-serif;
+  color: white;
+}
+
+body {
+  background-color: rgb(28, 15, 37);
+}
+
+h1, h2, #recipe-list {
+  text-align: center;
+}
+
+h1 {
+  color: rgba(255, 255, 255, 0.287);
+}
+
+#title{
+  font-size: 50px;
+}
+
+img {
+  margin: auto;
+  width: 500px;
+  height: auto;
+  display: block;
+}
+
+.image.recipe {
+  height: auto;
+  width: 700px;
+  margin: auto;
+  display: block;
+}
+
+a link {
+  text-decoration: none;
+  color: white;
+}
+#recipe-list {
+  list-style: inside;
+  width: 400px;
+  margin: auto;
+}
