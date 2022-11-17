@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: rgb(28, 15, 37);
+  background-color: rgb(70, 65, 68);
 }
 
 h1, h2, #recipe-list {
@@ -12,11 +12,13 @@ h1, h2, #recipe-list {
 }
 
 h1 {
-  color: rgba(255, 255, 255, 0.287);
+  color: rgba(218, 252, 1, 0.839);
+  -webkit-text-stroke: 2px black;
 }
 
 #title{
-  font-size: 50px;
+  font-size: 60px;
+
 }
 
 img {
@@ -33,7 +35,7 @@ img {
   display: block;
 }
 
-a link {
+a.link {
   text-decoration: none;
   color: white;
 }
