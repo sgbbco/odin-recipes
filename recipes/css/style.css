@@ -35,10 +35,16 @@ img {
 }
 
 .image.recipe {
-  height: auto;
-  width: 700px;
   margin: auto;
+  width: 450px;
+  height: auto;
+  padding: 12px;
+  line-height: 0;
+  background-color:  rgba(51, 59, 0, 0.839);
+  border: 10px solid rgba(201, 222, 67, 0.839);
+  border-radius: 999em;
   display: block;
+  position: relative;
 }
 
 a.link {
